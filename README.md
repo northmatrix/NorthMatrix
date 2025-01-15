@@ -3,6 +3,6 @@
 
 # 🔥 My interests
 - Maths, CyberSecurity
-- Opensource softwar, Privacy
+- Opensource software, Privacy
 - Operating Systems, Rust language
 - Cryptography, Ethical hacking 
