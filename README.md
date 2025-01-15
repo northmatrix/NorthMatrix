@@ -1,5 +1,5 @@
 ## 🗻 NorthMatrix
-Hello, my name is NorthMatrix i am a programmer from the UK 🇬🇧☕️
+- Hello, my name is NorthMatrix i am a programer from the UK 🇬🇧☕️
 
 # 🔥 My interests
 - Maths, CyberSecurity
