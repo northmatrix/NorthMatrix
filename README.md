@@ -7,8 +7,7 @@
 - Cryptography, Ethical hacking 
 
 ## Monero Wallet
-![Monero Logo](./monero.png)
-**88Q4nNMAc213HSZwNLsQSmHSYcigMMTffJBvCLdqXahyjTUsrgCtgfA1nfSrqKUKJ69BD6beQ9W14c9Ko22op3j5BEHKUjw**
+<img src="monero.png" alt="Monero Logo" width="16" height="16">
 
 ## Extra
 <img src="https://tryhackme-badges.s3.amazonaws.com/Shifter420.png" alt="Your Image Badge" />
