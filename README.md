@@ -4,9 +4,9 @@
 - Maths, CyberSecurity
 - Opensource software, Privacy
 - Operating Systems, Rust language
-- Cryptography, Ethical hacking 
-
-<div style="display: flex; align-items: center;">
+- Cryptography, Ethical hacking
+  
+<div style="display: inline-flex; align-items: center;">
   <img src="./monero.png" alt="Monero Logo" style="width: 30px; margin-right: 10px;">
   <p>88Q4nNMAc213HSZwNLsQSmHSYcigMMTffJBvCLdqXahyjTUsrgCtgfA1nfSrqKUKJ69BD6beQ9W14c9Ko22op3j5BEHKUjw</p>
 </div>
