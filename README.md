@@ -7,7 +7,7 @@
 - Cryptography, Ethical hacking 
 
 ## Monero Wallet
-![Monero Logo](https://raw.githubusercontent.com/<username>/<repository>/<branch>/<path-to-image>)
+![Monero Logo](https://./monero.png
 **88Q4nNMAc213HSZwNLsQSmHSYcigMMTffJBvCLdqXahyjTUsrgCtgfA1nfSrqKUKJ69BD6beQ9W14c9Ko22op3j5BEHKUjw**
 
 ## Extra
