@@ -3,4 +3,4 @@
 ## 🪙 Monero(XMR)
 **83iCVb4NYXgE1N8TohJYkvRA1RpWUh3a17JNWuPpP1SaZF2dGFh9XB7HNpzUAt7vKgAbUya2J3dBtbbaKR4irhfaHFqs3nd**
 ## 🔐 Pgp Key
-**[Key](https://raw.githubusercontent.com/northmatrix/NorthMatrix/refs/heads/main/gpg-key.asc) Fingerprint: 01FE D8EF 0254 0D31 A74D  F2D0 C0C9 9930 741C AAFA**
+**[Key](https://raw.githubusercontent.com/northmatrix/NorthMatrix/refs/heads/main/public-key.asc) Fingerprint: 7607 76D4 DE0C 6F04 28DD DAD8 4C1A 2194 695C 1AF6**
