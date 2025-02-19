@@ -1,5 +1,5 @@
 # 🗻 Northmatrix
-**Hello, my name is NorthMatrix i am a programer from the UK 🇬🇧 ☕️**
+**Hello, my name is Jamie, I am a programer from the UK 🇬🇧 ☕️**
 ## 🪙 Monero(XMR)
 **83iCVb4NYXgE1N8TohJYkvRA1RpWUh3a17JNWuPpP1SaZF2dGFh9XB7HNpzUAt7vKgAbUya2J3dBtbbaKR4irhfaHFqs3nd**
 ## 🔐 Pgp Key
