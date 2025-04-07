@@ -1,5 +1,5 @@
 # 🗻 Northmatrix
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=northmatrix)](https://github.com/northmatrix/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=northmatrix?theme=dark)](https://github.com/northmatrix/github-readme-stats)
 **Hello, my name is Jamie, I am a programer from the UK 🇬🇧 ☕️**
 ## 🪙 Monero(XMR)
 **83iCVb4NYXgE1N8TohJYkvRA1RpWUh3a17JNWuPpP1SaZF2dGFh9XB7HNpzUAt7vKgAbUya2J3dBtbbaKR4irhfaHFqs3nd**
