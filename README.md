@@ -1,12 +1,13 @@
 # 🗻 Northmatrix
 
+**Hello, my name is Jamie, I am a programer from the UK 🇬🇧 ☕️ and i normally just code whatever i want whenever i want for no reason apart from the vibe.
+Recently ive been doing rust but i also do C and Python although most of those projects are private.**
+
 ## My Top Language's
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=northmatrix&theme=onedark&layout=donut)
 
 ## My stats
 ![Northmatrix's Stats](https://github-readme-stats.vercel.app/api?username=northmatrix&show_icons=true&theme=onedark)
-
-**Hello, my name is Jamie, I am a programer from the UK 🇬🇧 ☕️**
 
 ## 🪙 Monero(XMR)
 **83iCVb4NYXgE1N8TohJYkvRA1RpWUh3a17JNWuPpP1SaZF2dGFh9XB7HNpzUAt7vKgAbUya2J3dBtbbaKR4irhfaHFqs3nd**
