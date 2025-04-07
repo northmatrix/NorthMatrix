@@ -4,15 +4,14 @@
 Recently ive been doing rust but i also do C and Python although most of those projects are private.
 I have a blog at https://northmatrix.co.uk where i just post random stuff, you can also email me at contact@northmatrix.co.uk but im not sure why angone would want to.**
 
-## My Top Language's
+## My Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=northmatrix&theme=onedark&layout=donut)
 
-## My stats
+## My Stats
 ![Northmatrix's Stats](https://github-readme-stats.vercel.app/api?username=northmatrix&show_icons=true&theme=onedark)
 
-## 🪙 Monero(XMR)
-**83iCVb4NYXgE1N8TohJYkvRA1RpWUh3a17JNWuPpP1SaZF2dGFh9XB7HNpzUAt7vKgAbUya2J3dBtbbaKR4irhfaHFqs3nd**
+## My Crypto
+**🪙 Monero(XMR) : 83iCVb4NYXgE1N8TohJYkvRA1RpWUh3a17JNWuPpP1SaZF2dGFh9XB7HNpzUAt7vKgAbUya2J3dBtbbaKR4irhfaHFqs3nd**
 
 ## 🔐 Pgp Key
-
 **[Key](https://raw.githubusercontent.com/northmatrix/NorthMatrix/refs/heads/main/public-key.asc) Fingerprint: 7607 76D4 DE0C 6F04 28DD DAD8 4C1A 2194 695C 1AF6**
