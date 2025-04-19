@@ -7,12 +7,23 @@ I have a blog at https://northmatrix.co.uk where i just post random stuff, you c
 ## 🧠 Languages I Know
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="40" /> Rust<br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /> Python<br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" /> C<br>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@develop/icons/intel.svg" width="40" /> Intel<br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" /> C#<br>
+  <span style="display: flex; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="40" /> Rust
+  </span><br>
+  <span style="display: flex; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /> Python
+  </span><br>
+  <span style="display: flex; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" /> C
+  </span><br>
+  <span style="display: flex; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@develop/icons/intel.svg" width="40" /> Intel
+  </span><br>
+  <span style="display: flex; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" /> C#
+  </span>
 </p>
+
 
 ## My Stats
 ![Northmatrix's Stats](https://github-readme-stats.vercel.app/api?username=northmatrix&show_icons=true&theme=onedark)
