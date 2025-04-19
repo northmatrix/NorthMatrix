@@ -4,7 +4,7 @@ Hello, my name is Jamie, I am a programer from the UK 🇬🇧 ☕️ and i norm
 Recently ive been doing rust but i also do C and Python although most of those projects are private.
 I have a blog at https://northmatrix.co.uk where i just post random stuff, you can also email me at contact@northmatrix.co.uk but im not sure why angone would want to.
 
-## 💎 Mosf used languages
+## 💎 Most used languages
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="40" />
@@ -16,7 +16,8 @@ I have a blog at https://northmatrix.co.uk where i just post random stuff, you c
 
 ## 💵 Crypto
 
-**MONERO (XMR)**
+**Monero (XMR)**
+
 83iCVb4NYXgE1N8TohJYkvRA1RpWUh3a17JNWuPpP1SaZF2dGFh9XB7HNpzUAt7vKgAbUya2J3dBtbbaKR4irhfaHFqs3nd
 
 ## 🔐 PGP Key
