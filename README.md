@@ -10,7 +10,7 @@ I have a blog at https://northmatrix.co.uk where i just post random stuff, you c
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
-  <img srx="https://user-images.githubusercontent.com/103866722/177392704-2e090995-4c68-4c94-a19c-ec4b9d5ee329.svg">
+  <img srx="https://user-images.githubusercontent.com/103866722/177392704-2e090995-4c68-4c94-a19c-ec4b9d5ee329.svg", width=40>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
 </p>
 
