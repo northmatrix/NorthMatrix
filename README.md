@@ -7,23 +7,22 @@ I have a blog at https://northmatrix.co.uk where i just post random stuff, you c
 ## 🧠 Languages I Know
 
 <p align="left">
-  <span style="display: flex; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="40" /> Rust
-  </span><br>
-  <span style="display: flex; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /> Python
-  </span><br>
-  <span style="display: flex; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" /> C
-  </span><br>
-  <span style="display: flex; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@develop/icons/intel.svg" width="40" /> Intel
-  </span><br>
-  <span style="display: flex; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" /> C#
-  </span>
+  <div style="display: flex; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="40" /> <span style="margin-left: 8px;">Rust</span>
+  </div>
+  <div style="display: flex; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /> <span style="margin-left: 8px;">Python</span>
+  </div>
+  <div style="display: flex; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" /> <span style="margin-left: 8px;">C</span>
+  </div>
+  <div style="display: flex; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@develop/icons/intel.svg" width="40" /> <span style="margin-left: 8px;">Intel</span>
+  </div>
+  <div style="display: flex; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" /> <span style="margin-left: 8px;">C#</span>
+  </div>
 </p>
-
 
 ## My Stats
 ![Northmatrix's Stats](https://github-readme-stats.vercel.app/api?username=northmatrix&show_icons=true&theme=onedark)
