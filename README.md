@@ -13,13 +13,11 @@ I have a blog at https://northmatrix.co.uk where i just post random stuff, you c
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
 </p>
 
-## My Statistics
-![Northmatrix's Stats](https://github-readme-stats.vercel.app/api?username=northmatrix&show_icons=true&theme=onedark)
-
 ## My Crypto
-**Monero(XMR)**
 
+**Monero(XMR)**
 83iCVb4NYXgE1N8TohJYkvRA1RpWUh3a17JNWuPpP1SaZF2dGFh9XB7HNpzUAt7vKgAbUya2J3dBtbbaKR4irhfaHFqs3nd
 
 ## Pgp Key
+
 [Key](https://raw.githubusercontent.com/northmatrix/NorthMatrix/refs/heads/main/public-key.asc) Fingerprint: 7607 76D4 DE0C 6F04 28DD DAD8 4C1A 2194 695C 1AF
