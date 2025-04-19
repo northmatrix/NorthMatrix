@@ -1,10 +1,10 @@
-# 🗻 NORTHMATRIX
+# 🗻 Northmatrix
 
 Hello, my name is Jamie, I am a programer from the UK 🇬🇧 ☕️ and i normally just code whatever i want whenever i want for no reason apart from the vibe.
 Recently ive been doing rust but i also do C and Python although most of those projects are private.
 I have a blog at https://northmatrix.co.uk where i just post random stuff, you can also email me at contact@northmatrix.co.uk but im not sure why angone would want to.
 
-## 💎 MOST USED LANGUAGES
+## 💎 Mosf used languages
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="40" />
@@ -14,11 +14,11 @@ I have a blog at https://northmatrix.co.uk where i just post random stuff, you c
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
 </p>
 
-## 💵 CRYPTO
+## 💵 Crypto
 
 **MONERO (XMR)**
 83iCVb4NYXgE1N8TohJYkvRA1RpWUh3a17JNWuPpP1SaZF2dGFh9XB7HNpzUAt7vKgAbUya2J3dBtbbaKR4irhfaHFqs3nd
 
-## 🔐 PGP KEY
+## 🔐 PGP Key
 
 [KEY](https://raw.githubusercontent.com/northmatrix/NorthMatrix/refs/heads/main/public-key.asc) FINGERPRINT: 7607 76D4 DE0C 6F04 28DD DAD8 4C1A 2194 695C 1AF
