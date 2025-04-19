@@ -4,8 +4,15 @@ Hello, my name is Jamie, I am a programer from the UK 🇬🇧 ☕️ and i norm
 Recently ive been doing rust but i also do C and Python although most of those projects are private.
 I have a blog at https://northmatrix.co.uk where i just post random stuff, you can also email me at contact@northmatrix.co.uk but im not sure why angone would want to.
 
-## My Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=northmatrix&theme=onedark&layout=donut)
+## 🧠 Languages I Know
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assembly/assembly-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
+</p>
 
 ## My Stats
 ![Northmatrix's Stats](https://github-readme-stats.vercel.app/api?username=northmatrix&show_icons=true&theme=onedark)
