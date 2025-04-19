@@ -6,11 +6,11 @@ I have a blog at https://northmatrix.co.uk where i just post random stuff, you c
 
 ## 🧠 Languages I Know
 
-- ![Rust](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg) Rust
-- ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) Python
-- ![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg) C
-- ![Intel](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@develop/icons/intel.svg) Intel
-- ![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg) C#
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="40" /> Rust
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /> Python
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" /> C
+- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@develop/icons/intel.svg" width="40" /> Intel
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" /> C#
 
 ## My Stats
 ![Northmatrix's Stats](https://github-readme-stats.vercel.app/api?username=northmatrix&show_icons=true&theme=onedark)
