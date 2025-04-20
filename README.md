@@ -31,10 +31,9 @@ I have a blog at https://northmatrix.co.uk where i just post random stuff, you c
 ## 💵 Crypto
 
 **Monero (XMR)**
-<p align="left">
-    <img src="https://www.getmonero.org/press-kit/symbols/monero-symbol-1280.png", width="40">
+<p align="left"></p>
+    <img src="https://www.getmonero.org/press-kit/symbols/monero-symbol-1280.png", width="40">83iCVb4NYXgE1N8TohJYkvRA1RpWUh3a17JNWuPpP1SaZF2dGFh9XB7HNpzUAt7vKgAbUya2J3dBtbbaKR4irhfaHFqs3nd</img>
 </p>
-83iCVb4NYXgE1N8TohJYkvRA1RpWUh3a17JNWuPpP1SaZF2dGFh9XB7HNpzUAt7vKgAbUya2J3dBtbbaKR4irhfaHFqs3nd
 
 ## 🔐 PGP Key
 
