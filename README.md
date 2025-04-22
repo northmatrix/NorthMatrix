@@ -35,6 +35,7 @@ I have a blog at https://northmatrix.co.uk where i just post random stuff, you c
 <p align="left"></p>
     <img src="https://www.getmonero.org/press-kit/symbols/monero-symbol-1280.png", width="40">
 </p>
+
 83iCVb4NYXgE1N8TohJYkvRA1RpWUh3a17JNWuPpP1SaZF2dGFh9XB7HNpzUAt7vKgAbUya2J3dBtbbaKR4irhfaHFqs3nd
 
 **Bitcoin (BTC)**
@@ -44,6 +45,7 @@ I have a blog at https://northmatrix.co.uk where i just post random stuff, you c
 </p>
 
 bc1qwtztx0l77m0mz6xnk5j2y3xuwpld8p8v3djpqt
+
 ## 🔐 PGP Key
 
 [KEY](https://raw.githubusercontent.com/northmatrix/NorthMatrix/refs/heads/main/public-key.asc) FINGERPRINT: 7607 76D4 DE0C 6F04 28DD DAD8 4C1A 2194 695C 1AF
