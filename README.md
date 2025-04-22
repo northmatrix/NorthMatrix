@@ -40,7 +40,7 @@ I have a blog at https://northmatrix.co.uk where i just post random stuff, you c
 **Bitcoin (BTC)**
 
 <p align="left"></p>
-    <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.svg?v=040", width="40">
+    <img src="bitcoin.svg", width="40">
 </p>
 
 bc1qwtztx0l77m0mz6xnk5j2y3xuwpld8p8v3djpqt
