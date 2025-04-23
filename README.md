@@ -49,3 +49,9 @@ bc1qwtztx0l77m0mz6xnk5j2y3xuwpld8p8v3djpqt
 ## 🔐 PGP Key
 
 [KEY](https://raw.githubusercontent.com/northmatrix/NorthMatrix/refs/heads/main/public-key.asc) FINGERPRINT: 7607 76D4 DE0C 6F04 28DD DAD8 4C1A 2194 695C 1AF
+
+## Extra
+
+<p align="left"></p>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Shifter420.png" alt="Your Image Badge" />
+</p>
